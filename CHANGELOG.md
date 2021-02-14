@@ -1,3 +1,7 @@
+## [0.0.1-dev.8]
+- fix: int parse error and json decode error during getSessionFromUrl
+- chore: export AuthChangeEvent
+
 ## [0.0.1-dev.7]
 
 - fix: Password and other attributes defaulting to email field.
